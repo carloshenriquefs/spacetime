@@ -1,6 +1,6 @@
 # :construction: - Project NLW-SPACETIME
 
-- Trilha Explorer desenvolvemos juntos uma aplicação Web responsiva de recordação de memórias;
+- Trilha Explorer desenvolvendo uma aplicação Web responsiva de recordação de memórias;
 - Nessa aplicação o usuário poderá aplicar memórias à uma timeline de acontecimentos marcantes da sua vida;
 
 ##
